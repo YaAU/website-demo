@@ -1,0 +1,22 @@
+.main {
+    border: 0px;
+    margin-left: 400px;
+    margin-top: 550px;
+    flex-direction: column;
+    background-image: url(assets/main-bg.jpg);
+    flex
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container {
+   width: 600px;
+   margin: 100px 100px 100px 100px;
+   background-color: rgba(255, 255, 255, 0.80);
+}
+
+p {
+    font-size: larger;
+    font-weight: bolder;
+}
